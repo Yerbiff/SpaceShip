@@ -1,20 +1,5 @@
 
 
-**POLITECHNIKA POZNAŃSKA**
-
-**Wydział Automatyki, Robotyki i**
-
-**Elektrotechniki**
-
-**Protokół projektowy**
-
-**Gra “Space Ship”**
-
-**3 czerwiec 2022**
-
-
-
-
 
 **1. Temat projektu**
 
@@ -41,6 +26,7 @@ zamieniany na obecny. Gra kończy się oraz zaczyna odpowiednimi napisami na
 ekranie. W przypadku początku gry jest to napis “Space Ship” a w razie jej
 
 zakończenia “Game Over ”.
+
 
 **2. Funkcjonalność układu**
 
@@ -277,15 +263,16 @@ strzału i asteroid.
 
 Na powyższym rysunku znajduje się cały interfejs stworzonej przez nas gry. Jest
 
-to kolejno: 1 - Wyświetlacz najwyższego wyniku, 2 - Wyświetlacz obecnego
+to kolejno:
 
-wyniku, 3 – Pasek życia statku, 4 – Ekran, na którym odbywa się rozgrywka, 5 –
-
-Klawiatura służąca do sterowania statkiem, 6 – przycisk resetujący grę, 7 –
-
-przycisk włączający grę, 8 - przełącznik włączający/wyłączający utratę zdrowia
-
-przez gracza (funkcja testowa).
+<p> 1 - Wyświetlacz najwyższego wyniku,</p>
+<p> 2 - Wyświetlacz obecnego wyniku,</p>
+<p> 3 – Pasek życia statku,</p>
+<p> 4 – Ekran, na którym odbywa się rozgrywka,</p>
+<p> 5 – Klawiatura służąca do sterowania statkiem,</p>
+<p> 6 – przycisk resetujący grę,</p>
+<p> 7 – przycisk włączający grę,</p>
+<p> 8 - przełącznik włączający/wyłączający utratę zdrowia przez gracza (funkcja testowa).</p>
 
 
 
@@ -310,4 +297,3 @@ i zaczęli do niego strzelać utrudniając tym samym rozgrywkę.
 ![image](https://user-images.githubusercontent.com/48961236/227413913-b0744de5-9544-4601-b344-937a0ac9d0a7.png)
 
 ***Rys7.1** - Schemat logiczny stworzonego układu*
-
