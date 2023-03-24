@@ -60,6 +60,8 @@ i reset gry oraz przycisk ‘godmode’ który wyłącza utratę zdrowia.
 
 **3. Omówienie każdego modułu**
 
+![image](https://user-images.githubusercontent.com/48961236/227413656-1b3b294b-0c7a-48ef-a738-1df1e6605a5b.png)
+
 ***Rys 4.1** Moduł odpowiedzialny za sprawdzenie kolizji i usuniecie strzału. (strzał2.circ)*
 
 Od lewej wchodzą wartości strzału z rejestru. Przechodzi on przez bufor, który
@@ -74,7 +76,7 @@ odpowiedzialny za ruchy pocisków.
 
 
 
-
+![image](https://user-images.githubusercontent.com/48961236/227413758-aa84f1c5-3ae3-45ce-8c81-9b8be6d491b4.png)
 
 ***Rys 4.2** Moduł odpowiedzialny za sterowanie statkiem (sterowanie.circ)*
 
@@ -95,6 +97,7 @@ bądź w lewo. Wyjścia shifterów przechodzą na 4 pierwsze kolumny ekranu led.
 
 
 
+![image](https://user-images.githubusercontent.com/48961236/227413790-e4d7f284-0ef5-4ce1-beeb-40ab384044a8.png)
 
 ***Rys 4.3** Moduł odpowiedzialny za wykrywanie kolizji (kolizja.circ)*
 
@@ -129,6 +132,7 @@ przesuwaniu bitów i pobrały wartości bez miejsc w których wystąpiła kolizj
 
 
 
+![image](https://user-images.githubusercontent.com/48961236/227413817-4ad7bb28-22b6-47fd-bbef-ce00061b5e80.png)
 
 ***Rys 4.4** Moduł odpowiedzialny za asteroidy i strzały na ekranie (ekran.circ)*
 
@@ -189,6 +193,7 @@ wysyłane są na rejestr.
 
 
 
+![image](https://user-images.githubusercontent.com/48961236/227413851-818eb216-03d3-4106-9c9e-b1b8cb3387aa.png)
 
 ***Rys 4.5** Moduł odpowiedzialny za logikę gry (Game.circ)*
 
@@ -266,6 +271,8 @@ strzału i asteroid.
 
 **4. Interfejs układu**
 
+![image](https://user-images.githubusercontent.com/48961236/227413888-41e4cc9a-ead6-4e7b-85a1-bbe2fd491ab6.png)
+
 ***Rys 5.1** Interfejs gry*
 
 Na powyższym rysunku znajduje się cały interfejs stworzonej przez nas gry. Jest
@@ -299,6 +306,8 @@ osiągnięciu przez gracza odpowiedniej ilości punktów pojawili by się na ekr
 i zaczęli do niego strzelać utrudniając tym samym rozgrywkę.
 
 **5. Schemat logiczny**
+
+![image](https://user-images.githubusercontent.com/48961236/227413913-b0744de5-9544-4601-b344-937a0ac9d0a7.png)
 
 ***Rys7.1** - Schemat logiczny stworzonego układu*
 
